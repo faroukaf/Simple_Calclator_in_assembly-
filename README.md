@@ -1,13 +1,23 @@
 # Simple Calclator in assembly
 This is Simple Calculator writen in 8086 assembly
-it run good at emu8086
+It run good at emu8086
 
--It can do
-1. add
-2.sub
-3.mul
-4.div
-<br>
--It take two operand
-<br>
--It 16-bit deciemal
+<ul>
+  <li>It can do</li>
+<ol>
+  <li>1. add</li>
+  <li>2.sub</li>
+  <li>3.mul</li>
+  <li>4.div</li>
+</ol>
+  <li>It take two operand</li>
+  <li>It 16-bit deciemal</li>
+</ul>
+
+
+
+
+##Team Members
+[Farouk Ayman](https://github.com/faroukaf)
+[Farouk Ayman](https://github.com/faroukaf)
+[Farouk Ayman](https://github.com/faroukaf)
