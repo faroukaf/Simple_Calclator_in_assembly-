@@ -18,6 +18,5 @@ It run good at emu8086
 
 
 ##Team Members
-[Farouk Ayman](https://github.com/faroukaf)
-[Farouk Ayman](https://github.com/faroukaf)
+<br>
 [Farouk Ayman](https://github.com/faroukaf)
